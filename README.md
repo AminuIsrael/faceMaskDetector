@@ -3,10 +3,6 @@ Building a simple facemask detector using Deep Learning(Keras) and OpenCV
 
 ### How to use:
 * Install the packages in the requirements.txt file
-* To retrain the model, use the following command
-  ```
-  python train_mask_detector.py --dataset dataset
-  ```
 * To detect facemask on your computer screen as a video, use the following command
   ```
   python detect_mask_video.py
